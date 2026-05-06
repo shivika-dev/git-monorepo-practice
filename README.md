@@ -1,2 +1,7 @@
-# git-monorepo-practice
-Learning Git branches with monorepo
+# Git Monorepo Practice
+
+Learning:
+- Git
+- GitHub
+- Branches
+- Monorepo
